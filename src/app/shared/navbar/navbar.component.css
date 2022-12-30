@@ -1,8 +1,15 @@
 .main-titulo{
-    background-color: red;
+    background-color: #ff0000;
     padding: 20px 10px;
 }
 .titulo{
-    color: white;
+    color: #ffffff;
     font-size: 35px;
+}
+.navbar{
+    background-color: rgb(211, 108, 108) !important;
+
+}
+.opcion{
+    color: #ffffff;
 }
